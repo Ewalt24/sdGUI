@@ -215,7 +215,7 @@ namespace GUIApp1
                 {
                     GlobalVar.pushString += 1;
                 }
-                //progress bar at 100% is = pushString so we can use it to keep track
+                //progress bar at 100% is = StringIterRU so we can use it to keep track
                 progressBar1.Value = GlobalVar.pushString;
             }
             //close fluid flow session
